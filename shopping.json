@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "food": "apples"
+    },
+    {
+        "id": 2,
+        "diverse": "ariel"
+    },
+    {
+        "id": 3,
+        "medicine": "paracetamol"
+    },
+    {
+        "id": 4,
+        "meat": "chicken"
+    },
+    {
+        "id": 5,
+        "litterature": "newspaper"
+    },
+    {
+        "id": 6,
+        "hygiene": "toiletpaper"
+    }
+]
